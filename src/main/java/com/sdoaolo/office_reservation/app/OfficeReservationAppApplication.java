@@ -8,5 +8,5 @@ public class OfficeReservationAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OfficeReservationAppApplication.class, args);
 	}
-
+	//commit 후 jira 연동 테스트용 주석 추가
 }
