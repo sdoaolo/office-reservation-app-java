@@ -10,4 +10,5 @@ public class OfficeReservationAppApplication {
 	}
 	//commit 후 jira 연동 테스트용 주석 추가
 	// 깃허브 커밋메세지에 ORA-22를 추가합니다
+	//git commit -m "ORA-22 <message>"
 }
